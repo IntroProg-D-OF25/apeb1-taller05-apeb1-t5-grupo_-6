@@ -4,7 +4,7 @@ import java.util.Scanner;
  * votar en función de su edad (mayor o igual a 18 años).
  * @author evelynlizzethe
  */
-public class Ejercicio1_EdadVotar {
+public class Ejercicio01_EdadVotar {
     public static void main(String[] args) {
         int edad;
         Scanner tcl = new Scanner(System.in);
